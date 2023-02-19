@@ -141,15 +141,21 @@ footer {
   align-items: center;
 }
 
-.first.content img {
-  object-fit:cover;
+.first.content a{
+  display: flex;
+  height: 75%;
+  width: 100%;
+  justify-content: center;
+}
+.first.content a img {
+  justify-content: center;
   height: 75%;
   width: 75%;
   margin-top: 1px;
 }
 
 .content {
-  padding-top: 1px;
+ 
   display:flex;
   height: 25%;
   color: var(--white);
