@@ -3,7 +3,7 @@
 ## Description
 This project contains the second homework which is to create my own portfolio page using HTML and CSS. In this homework I, from scratch, using code provided in class and 
 code from documentation, created a portfolio page displaying my projects and info about myself. The page needed to meet several criteria, most importantly the page needed to be responsive 
-meaing the page should look acceptable in a desktop and mobile format
+meaning the page should look acceptable in a desktop and mobile format
 
 ## Installation
 
